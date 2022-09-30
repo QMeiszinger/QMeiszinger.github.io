@@ -5,9 +5,8 @@ categories: [Blog]
 tags: [winter,school]
 ---
 
-***
-
 # Segmentation fault
+
 
 ```c
 #include <stdio.h>

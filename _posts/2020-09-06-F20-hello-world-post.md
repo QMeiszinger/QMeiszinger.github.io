@@ -5,8 +5,6 @@ categories: [Blog]
 tags: [fall, school]
 ---
 
-***
-
 # Hello, World!
 
 ```c
