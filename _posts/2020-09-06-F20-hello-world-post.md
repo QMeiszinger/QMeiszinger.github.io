@@ -1,8 +1,13 @@
 ---
-title: "F20 - Hello, World!"
+title: "F20: Hello, World!"
 last_modified_at: 2020-09-06
 categories: [Blog]
 tags: [fall, school]
+toc: true
+header:
+  teaser: assets/images/f20-thumbnail.jpg
+  overlay_image: assets/images/f20-header.jpg
+  overlay_filter: 0.25
 ---
 
 # Hello, World!

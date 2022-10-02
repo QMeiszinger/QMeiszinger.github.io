@@ -1,12 +1,16 @@
 ---
-title: "W21 - Segmentation fault"
+title: "W21: Segmentation fault"
 last_modified_at: 2021-04-28
 categories: [Blog]
 tags: [winter,school]
+toc: true
+header:
+  teaser: assets/images/w21-thumbnail.jpg
+  overlay_image: assets/images/w21-header.jpg
+  overlay_filter: 0.25
 ---
 
 # Segmentation fault
-
 
 ```c
 #include <stdio.h>
