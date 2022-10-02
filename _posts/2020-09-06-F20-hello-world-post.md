@@ -4,6 +4,7 @@ last_modified_at: 2020-09-06
 categories: [Blog]
 tags: [fall, school]
 toc: true
+excerpt: "Hello, World!"
 header:
   teaser: assets/images/f20-thumbnail.jpg
   overlay_image: assets/images/f20-header.jpg

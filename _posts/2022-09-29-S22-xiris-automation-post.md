@@ -5,6 +5,7 @@ author_profile: true
 categories: [Blog]
 tags: [summer, school, co-op]
 toc: true
+excerpt: "Xiris Automation Inc."
 header:
     teaser: /assets/images/xiris-thumbnail.jpg
     overlay_image: /assets/images/xiris-header.jpg
