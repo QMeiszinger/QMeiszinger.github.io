@@ -4,6 +4,7 @@ last_modified_at: 2021-04-28
 categories: [Blog]
 tags: [winter,school]
 toc: true
+toc_sticky: true
 excerpt: "Segmentation fault"
 header:
   teaser: assets/images/w21-thumbnail.jpg
