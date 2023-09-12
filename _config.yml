@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Quinn Meiszinger"
   avatar : "/assets/images/profile-picture.jpg"
-  bio    : "Third year computer science student currently attending the University of Guelph"
+  bio    : "Fourth year computer science student currently attending the University of Guelph"
   links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
