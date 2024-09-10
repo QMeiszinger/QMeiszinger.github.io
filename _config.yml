@@ -16,10 +16,7 @@
 title: QMeiszinger
 email: quinn.meiszinger@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: \@QMeiszinger
+  Hello! My name is Quinn Meiszinger and this site serves to document my experiences and progress as a Computer Science student. I am currently enrolled at the University of Guelph in the Computer Science Co-op program. I will be documenting each semester as well as reporting on each work term I complete. As time progresses, I hope to share my growth and development in the realm of Computer Science.
 github_username: QMeiszinger
 minimal_mistakes_skin: dark
 search: true
@@ -60,32 +57,17 @@ plugins:
 author:
   name   : "Quinn Meiszinger"
   avatar : "/assets/images/profile-picture.jpg"
-  bio    : "Fourth year computer science student currently attending the University of Guelph"
+  bio    : "Fifth year computer science student currently attending the University of Guelph"
   links:
-#    - label: "Website"
-#      icon: "fas fa-fw fa-link"
-#      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/QMeiszinger"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/QMeiszinger"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/QMeiszinger"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/QMeiszinger"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _posts
